@@ -62,21 +62,21 @@ author:
   avatar : "/assets/images/ID PHOTOn-1_2_11zon.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fas fa-fw fa-link"
+      url: "www.linkedin.com/in/tricia-nyoike"
+    - label: "GitHub Profile"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tricia-ai"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      icon: "fas fa-fw fa-link"
+      url: "www.linkedin.com/in/tricia-nyoike"
     - label: "GitHub Profile"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tricia-ai"
 
 defaults:
   # _posts
