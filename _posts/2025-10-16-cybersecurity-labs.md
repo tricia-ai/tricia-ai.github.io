@@ -4,7 +4,6 @@ categories:
   - blog
 tags:
   - Labs
-  - update
 ---
 
 Completed Labs on TryHackme and HackTheBox to understand various aspects of cybersecurity.
