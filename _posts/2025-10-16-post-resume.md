@@ -6,7 +6,10 @@ tags:
   - Resume
 ---
 
+# 🧭 Tricia Nyambura Nyoike
 *Cloud & Network Security | Cloud Architecture| Cybersecurity | Automation| Analysis*  
+
+---
 
 ## 🎓 Education
 
