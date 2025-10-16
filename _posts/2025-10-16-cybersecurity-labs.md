@@ -13,11 +13,10 @@ Completed Labs on TryHackme and HackTheBox to understand various aspects of cybe
 # Labs & TryHackMe Reports
 
 Below are two detailed write-ups from TryHackMe labs: **RootMe** and **Basic Pentesting: Exploiting SMB & SSH**.  
-Each entry contains the problem statement, approach, tools used, and key lessons learned.
 
 ---
 
-## RootMe — TryHackMe
+# RootMe — TryHackMe
 
 ### 🧠 Problem Statement
 Gain initial access to a vulnerable web server and escalate privileges to root. The lab exercises web exploitation (file upload / reverse shell) and Linux privilege escalation using SUID binaries.
@@ -68,7 +67,7 @@ Gain initial access to a vulnerable web server and escalate privileges to root. 
 
 ---
 
-## Basic Pentesting: Exploiting SMB & SSH — TryHackMe
+# Basic Pentesting: Exploiting SMB & SSH — TryHackMe
 
 ### 🧠 Problem Statement
 Enumerate and exploit SMB and SSH weaknesses to gain access. The lab covers SMB share enumeration, discovery of user artifacts, brute-force SSH, and cracking encrypted private keys to escalate privileges.
