@@ -8,6 +8,7 @@ tags:
 ---
 
 Designed and implemented highly available and scalable AWS environments.
+
 🔗 [View Repository](https://github.com/tricia-ai/aws_architechture_diagrams.git)
 
 **Highly Available Application using AWS**
