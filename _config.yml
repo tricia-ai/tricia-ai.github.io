@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tricia Nyoike"
   avatar : "/assets/images/ID PHOTOn-1_2_11zon.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a recent computer science graduate with interest in data, cloud and cybersecurity."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
