@@ -9,13 +9,13 @@ Welcome to my digital portfolio — a space where I document my journey through 
 
 ### 🌩 About Me
 
-I'm a **recent Computer Science student graduate** and a **tech enthusiast** passionate about building secure, data-driven, and cloud-enabled solutions.  
+I'm a **recent Computer Science student graduate** passionate about building secure, data-driven, and cloud-enabled solutions.  
 I enjoy connecting the dots between **data**, **cloud**, and **security** — creating systems that are efficient, scalable, and secure.
 
 Currently:
 - 🎓 Preparing for the **AWS Solutions Architect** certification  
 - 🧠 Deepening my understanding of **Cloud and Network Security** (Cybershujaa Program)  
-- 🔍 Exploring **data analytics and engineering pipelines** using Python, SQL, and PostgreSQL  
+- 🔍 Exploring **data analytics and engineering pipelines** using Python Libraries and SQL
 
 ---
 
@@ -23,9 +23,10 @@ Currently:
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
-| **Programming** | Python, Bash, SQL |
+| **Programming** | Python, Bash |
 | **Cloud** | AWS (EC2, S3, IAM, VPC, ELB, Security Groups) |
-| **Security** | VAPT, ISO 27001, Threat Modeling |
+| **Security** | Fundamentals principles of conducting VAPT, Burp Suite, OWASP ZAP, Jack the Ripper, Nikto |
+| **Troubleshooting & Network Diagnostics** | Ping, Dig, Traceroute, Wireshark (packet inspection, connectivity testing, DNS Resolution) |
 | **Operating Systems** | Windows, Linux |
 | **Networking** | TCP/IP, DNS, Firewalls, Routing & Switching, Subnetting, VLAN Configuration |
 
