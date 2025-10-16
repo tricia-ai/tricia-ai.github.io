@@ -6,6 +6,10 @@ tags:
   - Resume
 ---
 
+# 🧭 Tricia Nyambura Nyoike
+
+*Coud & Network Security | Cloud Architecture| Cybersecurity*  
+
 ## 🎓 Education
 
 **Bachelor of Informatics and Computer Science**  
@@ -58,12 +62,6 @@ Fostered a collaborative learning environment that empowered students to strengt
 
 **Outcome:**  
 Graduated with foundational and intermediate AWS skills, positioning for roles in **cloud engineering**, **DevOps**, and **infrastructure automation**.  
-
----
-
-## 💬 Interests
-
-Cloud Architecture · Cybersecurity · Machine Learning in Security · Network & Cloud Security
 
 ---
 
