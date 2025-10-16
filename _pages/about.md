@@ -3,6 +3,39 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to my digital portfolio — a space where I document my journey through **Cloud Computing**, **Data**, and **Cybersecurity**.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+---
+
+### 🌩 About Me
+
+I'm a **recent Computer Science student graduate** and a **tech enthusiast** passionate about building secure, data-driven, and cloud-enabled solutions.  
+I enjoy connecting the dots between **data**, **cloud**, and **security** — creating systems that are efficient, scalable, and secure.
+
+Currently:
+- 🎓 Preparing for the **AWS Solutions Architect** certification  
+- 🧠 Deepening my understanding of **Cloud and Network Security** (Cybershujaa Program)  
+- 🔍 Exploring **data analytics and engineering pipelines** using Python, SQL, and PostgreSQL  
+
+---
+
+### 🧰 Technical Toolbox
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Programming** | Python, Bash, SQL |
+| **Cloud** | AWS (EC2, S3, IAM, VPC, ELB, Security Groups) |
+| **Security** | VAPT, ISO 27001, Threat Modeling |
+| **Operating Systems** | Windows, Linux |
+| **Networking** | TCP/IP, DNS, Firewalls, Routing & Switching, Subnetting, VLAN Configuration |
+
+---
+
+
+### 📫 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/tricia-nyoike](#)
+- **Email:** [tricia.nyoike02@gmail.com](mailto:tricia.nyoike02@gmail.com)
+- **GitHub:** [github.com/tricia-ai](https://github.com/tricia-ai)
+
+Let’s connect and build something meaningful together!
